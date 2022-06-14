@@ -52,5 +52,5 @@ The datasets consists of several medical predictor variables and one target vari
 	* pandas
 	* matplotlib
 	* seaborn
-	* sklearn
+
 
